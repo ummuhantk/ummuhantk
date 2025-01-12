@@ -5,6 +5,7 @@ Müşteri ilişkileri, satış ve şikayet yönetimi gibi farklı alanlarda dene
 Java ve Selenium ile otomasyon testleri
 Manuel test süreçleri
 üzerine çalışıyorum.
+
 🎯 Hedefim: Yazılım test uzmanlığı konusunda uzmanlaşmak ve yakın zamanda ISTQB sertifikası alarak profesyonel gelişimimi desteklemek.
 
 💡 İlgi alanlarım arasında makine öğrenmesi ve teknoloji tabanlı çözüm geliştirme yer alıyor.
