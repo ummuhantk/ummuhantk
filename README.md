@@ -1,14 +1,14 @@
-👋 Merhaba!
-Kariyerime teknoloji ve yazılım test uzmanlığı alanında yön vermek için yeni bir yolculuğa başladım.
+👋 Hello!
+I have embarked on a new journey to shape my career in the field of technology and software testing.
 
-🚀 Şu anda SDET (Software Development Engineer in Test) bootcamp programına katılıyorum. Eğitimde:
-Java ve Selenium ile otomasyon testleri
-Manuel test süreçleri
-üzerine çalışıyorum.
+🚀 I am currently participating in an SDET (Software Development Engineer in Test) bootcamp program. During the training, I am working on:
 
-🎯 Hedefim: Yazılım test uzmanlığı konusunda uzmanlaşmak ve yakın zamanda ISTQB sertifikası alarak profesyonel gelişimimi desteklemek.
+✅ Automation testing with Java and Selenium 🖥️
+✅ Manual testing processes 📝
 
-💡 İlgi alanlarım arasında makine öğrenmesi,python,veri bilimi,yapay zeka araçları,java ve teknoloji tabanlı çözüm geliştirme yer alıyor.
+🎯 My goal is to specialize in software testing and obtain the ISTQB certification 🏆 soon to support my professional development 📈.
+
+💡 My areas of interest include machine learning 🤖, Python 🐍, data science 📊, AI tools 🧠, Java ☕, and technology-based solution development 🔧.
 
 <!---
 ummuhantk/ummuhantk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
