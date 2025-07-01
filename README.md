@@ -1,6 +1,5 @@
 
-👋 Hello!
-👋 Hi there! I'm a passionate Software Test Engineer who blends quality assurance with innovation in the tech world.
+👋 Hello! I'm a passionate Software Test Engineer who blends quality assurance with innovation in the tech world.
 
 🧭 With a background in customer-centric roles, I bring a unique perspective to software testing — one that focuses on both user experience and product excellence. After successfully completing a comprehensive SDET (Software Development Engineer in Test) Bootcamp, I’ve built a solid foundation in testing.
 
@@ -19,7 +18,7 @@
 
 🔍 A curious, solution-oriented, and lifelong learner — I use this space to share projects, track progress, and connect with the global dev community.
 
-📬 Feel free to contact me at: ummuhanturgun@gmail.com](mailto:e-mail@example.com)
+📬 Feel free to contact me at(mailto:ummuhanturgun@gmail.com)
 
 
 <!---
